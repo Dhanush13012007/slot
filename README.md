@@ -87,6 +87,9 @@ Execute the program using runserver command.
 
             </tr>
         </table>
+              &nbsp;
+              &nbsp;
+              &nbsp;
         <table border="3" cellpadding="10" bgcolor="grey">
             <tr>
                 <th>S.NO</th>
@@ -115,7 +118,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (17).png>)
+![alt text](<Screenshot (18).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
